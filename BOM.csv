@@ -1,27 +1,27 @@
-Quantity,Designator,Comment,Component Name,Unit Price,Total Price,Link
-2,U1,2.4GHz,ESP32-S3-WROOM-1-N16R8 Module,$4.6000,$9.2000,https://techiesms.com/product/esp32-s3-wroom-n16r8/
-2,USB1,TYPE-C16PIN,USB-C Female 16-Pin SMD Port,$0.1000,$0.2000,https://hubtronics.in/usb-c-female-port
-2,U2,LD1117S33TR,AMS1117-3.3V 1A Voltage Regulator (SOT-223),$0.1300,$0.2600,https://robu.in/product/ams1117-3-3v-1a-sot-223-voltage-regulator-ic-pack-of-5-ics
-4,"SW1, SW2",Boot / Reset Buttons,SMD 2-Pin Tactile Switch (3x4x2mm),$0.1000,$0.4000,https://sharvielectronics.com/product/smd-2-pin-tactile-switch-3x4x2mm/
-2,SDCARDSLOT,THD2528-11SD-GF,MicroSD Card Slot (Push-Push SMD),$0.4500,$0.9000,https://robu.in/product/thd2528-11sd-gf-thd-2mm-connector-and-ejector-microsd-card-tf-card-push-push-smd-sd-card-memory-card-connector-rohs
-2,LED4,WS2812B-B/T,WS2812B RGB LED (5050 SMD),$0.1700,$0.3400,https://sharvielectronics.com/product/ws2812b-v5-w-5v-0-24w-digital-rgb-led-4-pin-smd-5050-package/
-2,LED1,NCD0805G1,Green SMD LED (0805),$0.0320,$0.0640,https://robu.in/product/0805-surface-mount-led-green-50-pcs
-2,LED2,YLED0805R,Red SMD LED (0805),$0.0110,$0.0220,https://robu.in/product/0805-surface-mount-led-red-50-pcs
-6,"R1,R2,R5",5.1kΩ,5.1kΩ SMD Resistor (0603),$0.0018,$0.0108,https://robu.in/product/rc0603fr-075k1l-yageo-smd-chip-resistor-5-1-kohm-%C2%B1-1-100-mw-0603-1608-metric-thick-film-general-purpose
-6,"R7,R8,R9",10kΩ,10kΩ SMD Resistor (0603),$0.0053,$0.0318,https://robu.in/product/yageo-10k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-50
-2,R3,1kΩ,1kΩ SMD Resistor (0603),$0.0013,$0.0026,https://robu.in/product/yageo-1k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-50
-4,"R4,R10",330Ω,330Ω SMD Resistor (0603),$0.0037,$0.0148,https://robu.in/product/330-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100
-6,"C1,C2,C7",10uF,10μF SMD Capacitor (0603),$0.0130,$0.0780,https://robu.in/product/cl10a106ko8nqnc-samsang-16v-10uf-x5r-%C2%B110-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
-6,"C4,C5,C6",100nF,100nF SMD Capacitor (0603),$0.0045,$0.0270,https://robu.in/product/0603b104j500nt-fh-50v-100nf-x7r%C2%B15-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
-2,C3,22uF,22μF SMD Capacitor (0805),$0.0650,$0.1300,https://robu.in/product/cl21a226koqnnne-samsang-16v-22uf-x5r-%C2%B110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
-4,"H1,H2",2011-1X20G00SB,40-Pin Male Berg Header,$0.1400,$0.5600,https://sharvielectronics.com/product/40x1-40pin-male-berg-header-straight-with-golden-flash-coated-11mm-height-2-54mm-pitch/
-1,Solder,V-Series,Mechanic Solder Paste,$3.6600,$3.6600,https://makerbazar.in/products/mechanic-solder-paste-smd-bga-smt-rework?variant=48828760359152
-1,Tool,Handling,Hoki Tweezers Set (5pcs),$2.1100,$2.1100,https://makerbazar.in/products/hoki-non-magnetic-straight-and-curved-tips-tweezers-set-for-mobile-gadget-laptop-and-jewelry-repair-black-set-of-5-pieces?variant=40768709591191
-1,Tool,Reflow,65W 20V Preheating Soldering Plate,$25.1200,$25.1200,https://amzn.in/d/0dAeWDaC
-1,Tool,Power,65W 20V 3.25A Standard Adapter,$14.4600,$14.4600,https://amzn.in/d/0botZGcs
-1,PCB,Custom Mfg,5 Black PCB + Stencil,$22.3200,$22.3200,
-1,Tool,900M-T-I,Soldering Iron Bit,$1.0600,$1.0600,https://makerbazar.in/products/60w-premium-soldering-iron-station-bit?variant=48251047641328
-1,Tool,Rework,Desoldering Wick Copper Roll,$0.3700,$0.3700,https://makerbazar.in/products/desoldering-wick-copper-roll-1-5mtr?variant=42112810352880
-1,Solder,Flux,UV559 Solder Flux Paste Syringe,$1.6900,$1.6900,https://makerbazar.in/products/mechanic-10cc-lead-free-no-clean-solder-flux-paste-syring?variant=48251101184240
-1,Misc,Various,"Delivery, Taxes, Adjustments",$6.0000,$6.0000,
+Quantity,Designator,Component Name,Purpose,Unit Price,Total Price,Link
+2,U1,ESP32-S3-WROOM-1-N16R8 Module,Main microcontroller for Wi-Fi/Bluetooth & processing,$4.6000,$9.2000,https://techiesms.com/product/esp32-s3-wroom-n16r8/
+2,USB1,USB-C Female 16-Pin SMD Port,Power input and data programming interface,$0.1000,$0.2000,https://hubtronics.in/usb-c-female-port
+2,U2,AMS1117-3.3V 1A Voltage Regulator (SOT-223),Steps down 5V USB power to 3.3V for logic,$0.1300,$0.2600,https://robu.in/product/ams1117-3-3v-1a-sot-223-voltage-regulator-ic-pack-of-5-ics
+4,"SW1, SW2",SMD 2-Pin Tactile Switch (3x4x2mm),Buttons for resetting the board and entering boot mode,$0.1000,$0.4000,https://sharvielectronics.com/product/smd-2-pin-tactile-switch-3x4x2mm/
+2,SDCARDSLOT,MicroSD Card Slot (Push-Push SMD),External storage for data logging or serving web files,$0.4500,$0.9000,https://robu.in/product/thd2528-11sd-gf-thd-2mm-connector-and-ejector-microsd-card-tf-card-push-push-smd-sd-card-memory-card-connector-rohs
+2,LED4,WS2812B RGB LED (5050 SMD),Programmable RGB LED for visual status indication,$0.1700,$0.3400,https://sharvielectronics.com/product/ws2812b-v5-w-5v-0-24w-digital-rgb-led-4-pin-smd-5050-package/
+2,LED1,Green SMD LED (0805),3.3V Power status indicator,$0.0320,$0.0640,https://robu.in/product/0805-surface-mount-led-green-50-pcs
+2,LED2,Red SMD LED (0805),USB Power/Charging status indicator,$0.0110,$0.0220,https://robu.in/product/0805-surface-mount-led-red-50-pcs
+6,"R1,R2,R5",5.1kΩ SMD Resistor (0603),USB Type-C CC pin pull-downs to negotiate 5V power,$0.0018,$0.0108,https://robu.in/product/rc0603fr-075k1l-yageo-smd-chip-resistor-5-1-kohm-%C2%B1-1-100-mw-0603-1608-metric-thick-film-general-purpose
+6,"R7,R8,R9",10kΩ SMD Resistor (0603),Pull-up resistors for SD card lines or strapping pins,$0.0053,$0.0318,https://robu.in/product/yageo-10k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-50
+2,R3,1kΩ SMD Resistor (0603),Current limiting resistor for status LED,$0.0013,$0.0026,https://robu.in/product/yageo-1k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-50
+4,"R4,R10",330Ω SMD Resistor (0603),Current limiting for LEDs or data lines,$0.0037,$0.0148,https://robu.in/product/330-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100
+6,"C1,C2,C7",10μF SMD Capacitor (0603),Bulk decoupling/filtering for power stability,$0.0130,$0.0780,https://robu.in/product/cl10a106ko8nqnc-samsang-16v-10uf-x5r-%C2%B110-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
+6,"C4,C5,C6",100nF SMD Capacitor (0603),High-frequency noise filtering for IC power pins,$0.0045,$0.0270,https://robu.in/product/0603b104j500nt-fh-50v-100nf-x7r%C2%B15-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
+2,C3,22μF SMD Capacitor (0805),Input/output bulk capacitor for the 3.3V LDO regulator,$0.0650,$0.1300,https://robu.in/product/cl21a226koqnnne-samsang-16v-22uf-x5r-%C2%B110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
+4,"H1,H2",40-Pin Male Berg Header,Exposes ESP32 GPIO pins for external connections,$0.1400,$0.5600,https://sharvielectronics.com/product/40x1-40pin-male-berg-header-straight-with-golden-flash-coated-11mm-height-2-54mm-pitch/
+1,Solder,Mechanic Solder Paste,Low-temperature solder paste for SMD reflow,$3.6600,$3.6600,https://makerbazar.in/products/mechanic-solder-paste-smd-bga-smt-rework?variant=48828760359152
+1,Tool,Hoki Tweezers Set (5pcs),Precision handling of tiny 0603/0805 SMD components,$2.1100,$2.1100,https://makerbazar.in/products/hoki-non-magnetic-straight-and-curved-tips-tweezers-set-for-mobile-gadget-laptop-and-jewelry-repair-black-set-of-5-pieces?variant=40768709591191
+1,Tool,65W 20V Preheating Soldering Plate,Hot plate to melt solder paste and reflow the PCB,$25.1200,$25.1200,https://amzn.in/d/0dAeWDaC
+1,Tool,65W 20V 3.25A Standard Adapter,Power supply for the preheating hot plate,$14.4600,$14.4600,https://amzn.in/d/0botZGcs
+1,PCB,5 Black PCB + Stencil,Bare printed circuit boards and solder stencil for applying paste,$22.3200,$22.3200,
+1,Misc,Delivery Taxes Adjustments,"Shipping, handling, and tax fees",$6.0000,$6.0000,
+1,Tool,Soldering Iron Bit,Fine-point soldering iron tip for touch-ups,$1.0600,$1.0600,https://makerbazar.in/products/60w-premium-soldering-iron-station-bit?variant=48251047641328
+1,Tool,Desoldering Wick Copper Roll,Copper braid to remove excess solder or fix bridges,$0.3700,$0.3700,https://makerbazar.in/products/desoldering-wick-copper-roll-1-5mtr?variant=42112810352880
+1,Solder,UV559 Solder Flux Paste Syringe,Helps solder flow and prevents oxidation during rework,$1.6900,$1.6900,https://makerbazar.in/products/mechanic-10cc-lead-free-no-clean-solder-flux-paste-syring?variant=48251101184240
 ,GRAND TOTAL, , , ,$89.0310,
