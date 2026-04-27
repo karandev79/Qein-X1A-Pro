@@ -15,7 +15,7 @@ Quantity,Designator,Component Name,Purpose,Distributor,Unit Price,Total Price,Li
 2,LED4,WS2812B RGB LED 5050 SMD,Programmable RGB LED for visual status indication,Sharvi Electronics,$0.1500,$0.3000,https://sharvielectronics.com/product/ws2812b-v5-w-5v-0-24w-digital-rgb-led-4-pin-smd-5050-package/
 3,"SW1, SW2",SMD 2-Pin Tactile Switch 3x4x2mm,Buttons for resetting the board and entering boot mode,Sharvi Electronics,$0.0900,$0.2700,https://sharvielectronics.com/product/smd-2-pin-tactile-switch-3x4x2mm/
 2,U1,ESP32-S3-WROOM-1-N16R8 Module,Main microcontroller for Wi-Fi/Bluetooth & processing,Sharvi Electronics,$3.8800,$7.7600,https://sharvielectronics.com/product/esp32-s3-wroom-1-n16r8-16mb-flash-memory-wifi-and-bluetooth-module-41-smd-package/
-1,Misc,Delivery charges and taxes,Shipping, handling, and tax fees,,$4.0000,$4.0000,
+1,Misc,Delivery charges and taxes,"Shipping, handling, and tax fees",,$4.0000,$4.0000,
 1,PCB,5 PCB + stencil,Bare printed circuit boards and solder stencil for applying paste,JLCPCB,$30.7200,$30.7200,
 1,Tool,PCB SMD Preheating Hot Plate,Hot plate to melt solder paste and reflow the PCB,Amazon,$25.1200,$25.1200,https://amzn.in/d/05oL24uD
 1,Tool,Hot Plate Power Adaptor,Power supply for the preheating hot plate,Amazon,$14.4600,$14.4600,https://amzn.in/d/04YDfijy
@@ -24,5 +24,4 @@ Quantity,Designator,Component Name,Purpose,Distributor,Unit Price,Total Price,Li
 1,Tool,Desoldering Wick,Copper braid to remove excess solder or fix bridges,MakerBazar,$0.3700,$0.3700,https://makerbazar.in/products/desoldering-wick-copper-roll-1-5mtr?variant=42112810352880
 1,Solder,Solder Flux Paste Syringe - UV559,Helps solder flow and prevents oxidation during rework,MakerBazar,$1.6900,$1.6900,https://makerbazar.in/products/mechanic-10cc-lead-free-no-clean-solder-flux-paste-syring?variant=48251101184240
 1,Solder,V-Series Solder Paste for SMD,Low-temperature solder paste for SMD reflow,MakerBazar,$3.6700,$3.6700,https://makerbazar.in/products/mechanic-solder-paste-smd-bga-smt-rework?variant=48828760359152
-,,GRAND TOTAL,,,,,Out[3]: 
-$94.0000,
+,,GRAND TOTAL,,,,$94.0000,
