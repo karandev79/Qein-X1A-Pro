@@ -1,27 +1,28 @@
-Quantity,Designator,Component Name,Purpose,Distributor,Unit Price,Total Price,Link
-2,U2,AMS1117-3.3V 1A SOT-223 Voltage Regulator,Steps down 5V USB power to 3.3V for logic,Robu.in,$0.0960,$0.1900,https://robu.in/product/ams1117-3-3v-1a-sot-223-voltage-regulator-ic-pack-of-5-ics
-6,LED1,0805 Surface Mount LED Green,3.3V Power status indicator,Robu.in,$0.0180,$0.1100,https://robu.in/product/0805-surface-mount-led-green-50-pcs
-13,LED2,0805 Surface Mount LED Red,USB Power/Charging status indicator,Robu.in,$0.0084,$0.1100,https://robu.in/product/0805-surface-mount-led-red-50-pcs
-2,SDCARDSLOT,THD2528-11SD-GF MicroSD Card Push-Push SMD,External storage for data logging or serving web files,Robu.in,$0.4400,$0.8700,https://robu.in/product/thd2528-11sd-gf-thd-2mm-connector-and-ejector-microsd-card-tf-card-push-push-smd-sd-card-memory-card-connector-rohs
-9,"C1, C2, C7",16V 10uF X5R 0603 MLCC Capacitor,Bulk decoupling/filtering for power stability,Robu.in,$0.0120,$0.1100,https://robu.in/product/cl10a106ko8nqnc-samsang-16v-10uf-x5r-%c2%b110-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
-2,C3,16V 22uF X5R 0805 MLCC Capacitor,Input/output bulk capacitor for the 3.3V LDO regulator,Robu.in,$0.0640,$0.1300,https://robu.in/product/cl21a226koqnnne-samsang-16v-22uf-x5r-%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
-26,"R7, R8, R9",10k Ohm 1/4W 0603 SMD Resistor,Pull-up resistors for SD card lines or strapping pins,Robu.in,$0.0043,$0.1100,https://robu.in/product/yageo-10k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-50
-35,R3,1k Ohm 1/4W 0603 SMD Resistor,Current limiting resistor for status LED,Robu.in,$0.0031,$0.1100,https://robu.in/product/1k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100
-39,"R4, R10",330 Ohm 1/4W 0603 SMD Resistor,Current limiting for LEDs or data lines,Robu.in,$0.0030,$0.1200,https://robu.in/product/330-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100
-77,"R1, R2, R5",5.1 kohm 1% 100mW 0603 Thick Film Resistor,USB Type-C CC pin pull-downs to negotiate 5V power,Robu.in,$0.0014,$0.1100,https://robu.in/product/rc0603fr-075k1l-yageo-smd-chip-resistor-5-1-kohm-%c2%b1-1-100-mw-0603-1608-metric-thick-film-general-purpose
-4,"C4, C5, C6",50V 100nF X7R 0603 MLCC Capacitor,High-frequency noise filtering for IC power pins,Robu.in,$0.0270,$0.1100,https://robu.in/product/gcm188r71h104ka57j-murata-electronics-50v-100nf-x7r-%c2%b110-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
-2,USB1,USB 3.1 Type C Female 16Pin Connector,Power input and data programming interface,Hubtronics,$0.0630,$0.1300,https://hubtronics.in/usb-c-female-port
-2,"H1, H2",40x1 40Pin Male Berg Header,Exposes ESP32 GPIO pins for external connections,Sharvi Electronics,$0.1400,$0.2700,https://sharvielectronics.com/product/40x1-40pin-male-berg-header-straight-with-golden-flash-coated-11mm-height-2-54mm-pitch/
-2,LED4,WS2812B RGB LED 5050 SMD,Programmable RGB LED for visual status indication,Sharvi Electronics,$0.1500,$0.3000,https://sharvielectronics.com/product/ws2812b-v5-w-5v-0-24w-digital-rgb-led-4-pin-smd-5050-package/
-3,"SW1, SW2",SMD 2-Pin Tactile Switch 3x4x2mm,Buttons for resetting the board and entering boot mode,Sharvi Electronics,$0.0900,$0.2700,https://sharvielectronics.com/product/smd-2-pin-tactile-switch-3x4x2mm/
-2,U1,ESP32-S3-WROOM-1-N16R8 Module,Main microcontroller for Wi-Fi/Bluetooth & processing,Sharvi Electronics,$3.8800,$7.7600,https://sharvielectronics.com/product/esp32-s3-wroom-1-n16r8-16mb-flash-memory-wifi-and-bluetooth-module-41-smd-package/
-1,Misc,Delivery charges and taxes,"Shipping, handling, and tax fees",,$4.0000,$4.0000,
-1,PCB,5 PCB + stencil,Bare printed circuit boards and solder stencil for applying paste,JLCPCB,$30.7200,$30.7200,
-1,Tool,PCB SMD Preheating Hot Plate,Hot plate to melt solder paste and reflow the PCB,Amazon,$25.1200,$25.1200,https://amzn.in/d/05oL24uD
-1,Tool,Hot Plate Power Adaptor,Power supply for the preheating hot plate,Amazon,$14.4600,$14.4600,https://amzn.in/d/04YDfijy
-1,Tool,Soldering Bit - 900M-T-I,Fine-point soldering iron tip for touch-ups,MakerBazar,$1.0500,$1.0500,https://makerbazar.in/products/60w-premium-soldering-iron-station-bit?variant=48251047641328
-1,Tool,Tweezers Set,Precision handling of tiny 0603/0805 SMD components,MakerBazar,$2.1100,$2.1100,https://makerbazar.in/products/hoki-non-magnetic-straight-and-curved-tips-tweezers-set-for-mobile-gadget-laptop-and-jewelry-repair-black-set-of-5-pieces?variant=40768709591191
-1,Tool,Desoldering Wick,Copper braid to remove excess solder or fix bridges,MakerBazar,$0.3700,$0.3700,https://makerbazar.in/products/desoldering-wick-copper-roll-1-5mtr?variant=42112810352880
-1,Solder,Solder Flux Paste Syringe - UV559,Helps solder flow and prevents oxidation during rework,MakerBazar,$1.6900,$1.6900,https://makerbazar.in/products/mechanic-10cc-lead-free-no-clean-solder-flux-paste-syring?variant=48251101184240
-1,Solder,V-Series Solder Paste for SMD,Low-temperature solder paste for SMD reflow,MakerBazar,$3.6700,$3.6700,https://makerbazar.in/products/mechanic-solder-paste-smd-bga-smt-rework?variant=48828760359152
-,,GRAND TOTAL,,,,$94.0000,
+Component,Purpose,Distributor,Qty,Unit Price (INR),Unit Price (USD),Subtotal (INR),Subtotal (USD),Link
+"AMS1117-3.3V, 1A, SOT-223 Voltage Regulator IC",Steps down 5V USB power to 3.3V for logic,Robu.in,2,₹9.00,$0.0949,₹18.00,$0.1898,https://robu.in/product/ams1117-3-3v-1a-sot-223-voltage-regulator-ic-pack-of-5-ics
+0805 Surface Mount LED Green,3.3V Power status indicator,Robu.in,6,₹1.74,$0.0183,₹10.44,$0.1101,https://robu.in/product/0805-surface-mount-led-green-50-pcs
+0805 Surface Mount LED Red,USB Power/Charging status indicator,Robu.in,13,₹0.79,$0.0083,₹10.27,$0.1083,https://robu.in/product/0805-surface-mount-led-red-50-pcs
+THD2528-11SD-GF MicroSD Card Push-Push SMD,External storage for data logging or serving web files,Robu.in,2,₹41.00,$0.4324,₹82.00,$0.8647,https://robu.in/product/thd2528-11sd-gf-thd-2mm-connector-and-ejector-microsd-card-tf-card-push-push-smd-sd-card-memory-card-connector-rohs
+CL10A106KO8NQNC-SAMSUNG 16V 10uF X5R 0603 MLCC,Bulk decoupling/filtering for power stability,Robu.in,9,₹1.16,$0.0122,₹10.44,$0.1101,https://robu.in/product/cl10a106ko8nqnc-samsang-16v-10uf-x5r-%c2%b110-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
+CL21A226KOQNNNE-SAMSUNG 16V 22uF X5R 0805 MLCC,Input/output bulk capacitor for the 3.3V LDO regulator,Robu.in,3,₹3.82,$0.0403,₹11.46,$0.1208,https://robu.in/product/cl21a226koqnnne-samsang-16v-22uf-x5r-%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
+Yageo 10k Ohm 1/4W 0603 SMD Resistor,Pull-up resistors for SD card lines or strapping pins,Robu.in,26,₹0.40,$0.0042,₹10.40,$0.1097,https://robu.in/product/yageo-10k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-50
+1k Ohm 1/4W 0603 SMD Resistor,Current limiting resistor for status LED,Robu.in,35,₹0.29,$0.0031,₹10.15,$0.1070,https://robu.in/product/1k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100
+330 Ohm 1/4W 0603 SMD Resistor,Current limiting for LEDs or data lines,Robu.in,39,₹0.28,$0.0030,₹10.92,$0.1152,https://robu.in/product/330-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100
+RC0603FR-075K1L-Yageo 5.1 kohm 0603 Resistor,USB Type-C CC pin pull-downs to negotiate 5V power,Robu.in,77,₹0.13,$0.0014,₹10.01,$0.1056,https://robu.in/product/rc0603fr-075k1l-yageo-smd-chip-resistor-5-1-kohm-%c2%b1-1-100-mw-0603-1608-metric-thick-film-general-purpose
+CC0603JRX7R7BB104-YAGEO 16V 100nF X7R 0603 MLCC,High-frequency noise filtering for IC power pins,Robu.in,20,₹0.54,$0.0057,₹10.80,$0.1139,https://robu.in/product/cc0603jrx7r7bb104-yageo-16v-100nf-x7r-%c2%b15-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs
+USB 3.1 Type C Female 16Pin Connector,Power input and data programming interface,Hubtronics,2,₹5.90,$0.0622,₹11.80,$0.1244,https://hubtronics.in/usb-c-female-port
+40x1 40Pin Male Berg Header,Exposes ESP32 GPIO pins for external connections,Sharvi Electronics,2,₹12.75,$0.1345,₹25.50,$0.2689,https://sharvielectronics.com/product/40x1-40pin-male-berg-header-straight-with-golden-flash-coated-11mm-height-2-54mm-pitch/
+WS2812B RGB LED 5050 SMD,Programmable RGB LED for visual status indication,Sharvi Electronics,2,₹14.15,$0.1492,₹28.30,$0.2984,https://sharvielectronics.com/product/ws2812b-v5-w-5v-0-24w-digital-rgb-led-4-pin-smd-5050-package/
+SMD 2-Pin Tactile Switch 3x4x2mm,Buttons for resetting the board and entering boot mode,Sharvi Electronics,3,₹8.50,$0.0896,₹25.50,$0.2689,https://sharvielectronics.com/product/smd-2-pin-tactile-switch-3x4x2mm/
+ESP32-S3-WROOM-1-N16R8 Module,Main microcontroller for Wi-Fi/Bluetooth & processing,Sharvi Electronics,2,₹365.24,$3.8515,₹730.48,$7.7030,https://sharvielectronics.com/product/esp32-s3-wroom-1-n16r8-16mb-flash-memory-wifi-and-bluetooth-module-41-smd-package/
+900M-T-I soldering iron bit,Fine-point soldering iron tip for touch-ups,MakerBazar,1,₹100.00,$1.0545,₹100.00,$1.0545,https://makerbazar.in/products/60w-premium-soldering-iron-station-bit?variant=48251047641328
+Tweezers Set,Precision handling of tiny 0603/0805 SMD components,MakerBazar,1,₹199.00,$2.0985,₹199.00,$2.0985,https://makerbazar.in/products/hoki-non-magnetic-straight-and-curved-tips-tweezers-set-for-mobile-gadget-laptop-and-jewelry-repair-black-set-of-5-pieces?variant=40768709591191
+Desoldering Wick,Copper braid to remove excess solder or fix bridges,MakerBazar,1,₹35.00,$0.3691,₹35.00,$0.3691,https://makerbazar.in/products/desoldering-wick-copper-roll-1-5mtr?variant=42112810352880
+Solder Flux Paste Syringe - UV559,Helps solder flow and prevents oxidation during rework,MakerBazar,1,₹159.00,$1.6767,₹159.00,$1.6767,https://makerbazar.in/products/mechanic-10cc-lead-free-no-clean-solder-flux-paste-syring?variant=48251101184240
+V-Series Solder Paste for SMD,Low-temperature solder paste for SMD reflow,MakerBazar,1,₹345.00,$3.6381,₹345.00,$3.6381,https://makerbazar.in/products/mechanic-solder-paste-smd-bga-smt-rework?variant=48828760359152
+65W 20V PCB SMD Hot Plate,Hot plate to melt solder paste and reflow the PCB,Amazon,1,₹2952.00,$31.1294,₹2952.00,$31.1294,https://amzn.in/d/05oL24uD
+65W 20V 3.25A Standard Power supply,Power supply for the preheating hot plate,Amazon,1,₹1361.00,$14.3520,₹1361.00,$14.3520,https://amzn.in/d/04YDfijy
+5 PCB + stencil,Bare printed circuit boards and solder stencil for applying paste,JLCPCB,1,₹2913.18,$30.7200,₹2913.18,$30.7200,
+Taxes,Tax fees (₹159.26 + ₹11.8),,1,₹171.06,$1.8039,₹171.06,$1.8039,
+Shipping,Delivery charges (₹75 + ₹75 + ₹49 + ₹60),,1,₹259.00,$2.7312,₹259.00,$2.7312,
+GRAND TOTAL,,,,,,₹9510.71,$100.2922,
