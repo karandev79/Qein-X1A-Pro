@@ -27,6 +27,7 @@
 ---
 
 <img width="1190" height="845" alt="SCH_Schematic1_1-P1_2026-04-27" src="https://github.com/user-attachments/assets/ff759311-be67-4f36-add1-2aa8360443b1" />
+<img width="681" height="647" alt="image" src="https://github.com/user-attachments/assets/d108a09e-c97f-40c3-beb6-a842335c9718" />
 
 ---
 <img width="1445" height="717" alt="image" src="https://github.com/user-attachments/assets/d2f726ae-043a-4e6a-a517-8a96eeede585" />
