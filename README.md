@@ -8,6 +8,9 @@
 
 ---
 
+This is a custom designed IoT development board built around ESP32-S3 WROOM-1 chip, with a built in MicroSD card slot for expandable memory and a programmable WS2812B RGB LED and 2 indicator LEDs for status & debugging.
+I build this development board myself, as i enjoy building stuff and wanted to try something more complex this time, i previously build macropads, pcb keychain and business NFC card, this will provide me more experience and knowledge on pcbs and circuits. 
+
 ## Features
 
 * ESP32-S3-WROOM-1-N16R8 module with Wi-Fi + Bluetooth LE module & AI acceleration.
