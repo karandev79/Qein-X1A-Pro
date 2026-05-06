@@ -69,3 +69,8 @@
 | Taxes | Tax fees (₹159.26 + ₹11.8) | - | 1 | ₹171.06 | $1.80 | ₹171.06 | $1.80 | - |
 | Shipping | Delivery charges (₹75 + ₹75 + ₹49 + ₹60) | - | 1 | ₹259.00 | $2.73 | ₹259.00 | $2.73 | - |
 | **GRAND TOTAL** | | - | | | | **₹9510.71** | **$100.29** | - |
+
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE).
