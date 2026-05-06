@@ -26,6 +26,9 @@
 ## Schematic & PCB
 ---
 
+[Schematic PDF](https://github.com/karandev79/Qein-X1A-Pro/blob/main/PCB/Schematic.pdf)
+[Schematic Image](https://github.com/karandev79/Qein-X1A-Pro/blob/main/PCB/Schematic.png)
+
 <img width="1190" height="845" alt="SCH_Schematic1_1-P1_2026-04-27" src="https://github.com/user-attachments/assets/ff759311-be67-4f36-add1-2aa8360443b1" />
 <img width="681" height="647" alt="image" src="https://github.com/user-attachments/assets/d108a09e-c97f-40c3-beb6-a842335c9718" />
 
