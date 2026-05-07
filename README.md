@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8162fc66-8c0e-4bd2-84db-c422e97a49d6" alt="Title Image" width="60%" height="50%">
+<img src="https://github.com/user-attachments/assets/6b940d4e-d01a-4291-b8bf-e4a0546a157e" alt="Title Image" width="60%" height="50%">
 </div>
 
 <h3 align="center">Qein-X1A-Pro - ESP32-S3 WROOM-1 Development Board</h3>
@@ -23,7 +23,7 @@ I build this development board myself, as i enjoy building stuff and wanted to t
 
 ---
 
-<img width="1721" height="737" alt="image" src="https://github.com/user-attachments/assets/8162fc66-8c0e-4bd2-84db-c422e97a49d6" />
+<img width="1721" height="737" alt="image" src="https://github.com/user-attachments/assets/6b940d4e-d01a-4291-b8bf-e4a0546a157e" />
 
 ---
 
@@ -37,11 +37,11 @@ I build this development board myself, as i enjoy building stuff and wanted to t
 <img width="681" height="647" alt="image" src="https://github.com/user-attachments/assets/d108a09e-c97f-40c3-beb6-a842335c9718" />
 
 ---
-<img width="1445" height="717" alt="image" src="https://github.com/user-attachments/assets/d2f726ae-043a-4e6a-a517-8a96eeede585" />
-<img width="1549" height="725" alt="image" src="https://github.com/user-attachments/assets/2b8fa458-b6b7-4644-9b50-e376a2d05c31" />
-<img width="1547" height="721" alt="image" src="https://github.com/user-attachments/assets/1282cfa1-27b3-4936-a79b-2fbfbe610340" />
-<img width="1194" height="560" alt="image" src="https://github.com/user-attachments/assets/7c42f73f-5e02-4ae4-bbec-13696cc9d824" />
-<img width="1196" height="564" alt="image" src="https://github.com/user-attachments/assets/76cec014-51a3-4618-b60e-29d1e13b5f67" />
+<img width="1445" height="717" alt="image" src="https://github.com/user-attachments/assets/9ab6e0af-abc6-4712-9d80-13be780c970b" />
+<img width="1445" height="717" alt="image" src="https://github.com/user-attachments/assets/23964d3c-ae32-4d22-bef3-0df6cc240a7b" />
+<img width="1445" height="717" alt="image" src="https://github.com/user-attachments/assets/0ba1adc5-0645-41bb-bff5-fb5366788a37" />
+<img width="1445" height="717" alt="image" src="https://github.com/user-attachments/assets/48b07233-ddcb-4934-a15f-93d39e403382" />
+<img width="1445" height="717" alt="image" src="https://github.com/user-attachments/assets/c2b74659-a132-449a-a261-f85f4baf9ad4" />
 
 ---
 
